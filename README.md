@@ -1,15 +1,14 @@
 # JonTan-Cybersecurity-Portfolio
 
 ## Overview
-This repository contains my work for a cybersecurity assignment focused on Ethical Hacking.
-The objective of this work was to understand ARP spoofing, SSH brute-force, reverse shell, ransomware, CTF style brute-force, through practical exercises conducted in a controlled academic environment.
+This repository contains my work for a cybersecurity assignment in Ethical Hacking. The project explored security concepts such as ARP spoofing, SSH authentication weaknesses, remote command execution risks, ransomware behaviour, and CTF-style password analysis through practical exercises conducted in a controlled academic environment. Execution and automation logic is implemented in Python.
 
 ## Objectives
-- Q1) Write a Python program that allows you to perform an ARP spoofing attack with one command.
-- Q2) Write a Python program that automates password brute-force into a SSH server.
-- Q3) Write a Python program that creates a reverse shell that allows attacker to enter Linux commands remotely on the victim's machine.
-- Q4) Write a Python program that simulates a ransomware.
-- Q5) Use Crunch, Hashcat, Netdiscover tools to find for A & B in the voucher code.
+- Study ARP spoofing concepts and their impact on network security in a controlled lab setting.
+- Explore weaknesses in SSH authentication and understand the risks of poor password discipline.
+- Examine remote command execution concepts and their security implications in Linux environments.
+- Analyze ransomware behaviour and its impact on system and file security.
+- Apply tools such as Crunch, Hashcat, and Netdiscover in academic lab exercises and CTF-style problem solving.
 
 ## Academic Context
 Completed as part of coursework for Ethical Hacking at SIM-UOW.
