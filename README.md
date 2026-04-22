@@ -1,4 +1,4 @@
-# [CSCI369 Assignment]
+# JonTan-Cybersecurity-Portfolio
 
 ## Overview
 This repository contains my work for a cybersecurity assignment focused on Ethical Hacking.
